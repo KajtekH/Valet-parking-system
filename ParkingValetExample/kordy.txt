@@ -1,0 +1,22 @@
+Parkowanie przodem
+
+Pozycja górna 1
+[20, 30.25, -90]
+
+Pozycja górna 2
+[24.50, 30.25, -90]
+
+Pozycja dolna
+[29.25 19.75 90];
+
+
+Parkowanie tyłem
+
+Pozycja górna 1
+[20, 30.25, 90]
+
+Pozycja górna 2
+[24.50, 30.25, 90]
+
+Pozycja dolna
+[29.25 19.75 -90];

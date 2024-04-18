@@ -1,0 +1,4 @@
+
+data = load("routePlan1.mat");
+parkPose = [29.25 19.75 90];
+

@@ -1,0 +1,3 @@
+D:\Projekty\c++\GUIParkowanie\gui\x64\Release\gui.exe
+D:\Projekty\c++\GUIParkowanie\GUIParkowanie\gui\x64\Release\gui.exe
+C:\Users\kajhu\Desktop\gui\x64\Release\gui.exe
